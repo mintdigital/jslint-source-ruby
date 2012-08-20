@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name      = 'jslint-source'
-  s.version   = '2012.01.13'
-  s.date      = '2012-01-23'
+  s.version   = '2012.08.11'
+  s.date      = '2012-08-11'
 
   s.homepage    = 'http://jslint.com/'
   s.summary     = 'JSLint Source Code'
